@@ -1,2 +1,2 @@
-# AI_For_Traing
+# AI For Trading
 Online Course Projects (Udacity)
